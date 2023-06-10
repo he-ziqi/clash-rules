@@ -7,4 +7,4 @@ DOMAIN-SUFFIX,v1.mk
 PROCESS-NAME,WeChat
 PROCESS-NAME,WeChat.exe
 # 千千百度下载助手
-DOMAIN_SUFFIX,qianqian.club
+DOMAIN-SUFFIX,qianqian.club
