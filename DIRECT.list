@@ -1,5 +1,10 @@
+# jetbrains codewithme
 DOMAIN-KEYWORD,codewithme
 DOMAIN-KEYWORD,code-with-me
+# 节点转换
 DOMAIN-SUFFIX,v1.mk
+# 微信
 PROCESS-NAME,WeChat
 PROCESS-NAME,WeChat.exe
+# 千千百度下载助手
+DOMAIN_SUFFIX,qianqian.club
