@@ -9,4 +9,4 @@ PROCESS-NAME,WeChat.exe
 # 千千百度下载助手
 DOMAIN-SUFFIX,qianqian.club
 # cloudflare
-DOMAIN-SUFFIX,cloudflare.com
+DOMAIN-KEYWORD,cloudflare
