@@ -6,6 +6,8 @@ DOMAIN-SUFFIX,v1.mk
 # 微信
 PROCESS-NAME,WeChat
 PROCESS-NAME,WeChat.exe
+# QQ
+PROCESS-NAME,QQ.exe
 # 千千百度下载助手
 DOMAIN-SUFFIX,qianqian.club
 # cloudflare
