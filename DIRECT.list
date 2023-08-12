@@ -13,4 +13,5 @@ DOMAIN-SUFFIX,qianqian.club
 # cloudflare
 DOMAIN-KEYWORD,cloudflare
 DOMAIN-SUFFIX,tailscale.io
+DOMAIN-SUFFIX,tailscale.com
 DOMAIN-KEYWORD,tailscale
