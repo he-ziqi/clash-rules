@@ -12,3 +12,4 @@ PROCESS-NAME,QQ.exe
 DOMAIN-SUFFIX,qianqian.club
 # cloudflare
 DOMAIN-KEYWORD,cloudflare
+DOMAIN-KEYWORD,tailscale
