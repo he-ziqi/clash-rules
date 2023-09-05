@@ -18,3 +18,5 @@ DOMAIN-SUFFIX,tailscale.com
 DOMAIN-KEYWORD,tailscale
 # ghproxy
 DOMAIN-KEYWORD,ghproxy
+# epic-download
+DOMAIN-KEYWORD,epicgames-download
