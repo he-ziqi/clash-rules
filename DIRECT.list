@@ -20,3 +20,5 @@ DOMAIN-KEYWORD,tailscale
 DOMAIN-KEYWORD,ghproxy
 # epic-download
 DOMAIN-KEYWORD,epicgames-download
+#steam挂刀
+DOMAIN-SUFFIX,iflow.work
